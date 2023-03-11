@@ -20,3 +20,7 @@
 #### typora的图片配置暂时告一段落，后面多用typora写
 
 ![image-20230311122527099](https://raw.githubusercontent.com/ycnosad/MyMDFiles/master/img/202303111225868.png)
+
+![image-20230311122936310](https://raw.githubusercontent.com/ycnosad/MyMDFiles/master/img/202303111229418.png)
+
+![image-20230311123048886](https://raw.githubusercontent.com/ycnosad/MyMDFiles/master/img/202303111230497.png)
