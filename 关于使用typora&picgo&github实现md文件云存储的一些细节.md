@@ -13,5 +13,4 @@
   - 生成的token要select scopes为repo
 - picgo
   - 如果用steam++加速github,那piggo的上传图片可能不会成功，所以图片的上传最好还是采用网易的uu加速器，搜索学术资源加速，这个对上传图片管用，但是在将文件提交到github时可能没有steam++体验那么好。意思就是写文章用uu加速，因为粘贴的图片要随时上传，同步文章至仓库用steam++
-
-![image-20230311112708272](https://raw.githubusercontent.com/ycnosad/MyMDFiles/master/img/202303111127315.png)
+    - 想着来回开关两个加速器太无聊，想着用国内的gitee，折腾半天一查外部链接封掉了。。还是用gitHub吧，酸q
